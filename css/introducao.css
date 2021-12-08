@@ -31,7 +31,7 @@
 
 .introducao p {
   font-size: 1.5rem;
-  color: #525252;
+  color: var(--text-color);
 }
 
 @media (max-width: 1000px) {

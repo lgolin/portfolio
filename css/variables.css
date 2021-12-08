@@ -1,0 +1,29 @@
+/*====  VARIABLES ============================ */
+:root {
+  --header-height: 4.5rem;
+
+  /* colors */
+  --hue: 271;
+  /* HSL color mode */
+  --base-color: hsl(var(--hue) 36% 57%);
+  --base-color-second: hsl(var(--hue) 65% 88%);
+  --base-color-alt: hsl(var(--hue) 57% 53%);
+  --title-color: hsl(var(--hue) 41% 10%);
+
+  --text-color: hsl(0 0% 32%);
+  --experiencia: hsl(0 0% 88%);
+  --body-color: hsl(0 0% 98%);
+
+  --white: hsl(0 0% 99%);
+  --medium-grey: hsl(0 0% 56%);
+  --light-grey: hsl(0 0% 64%);
+  --dark-grey: hsl(0 0% 8%);
+  --black: hsl(0 0% 0%);
+
+  --gradiente: linear-gradient(
+    180deg,
+    rgba(255, 87, 228, 0.88) 0%,
+    #f556ef 0.01%,
+    #9f1ddc 100%
+  );
+}

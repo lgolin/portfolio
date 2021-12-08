@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: "Fira Sans", Arial, Helvetica, sans-serif;
-  color: #141414;
+  color: var(--dark-grey);
 }
 
 h1,
