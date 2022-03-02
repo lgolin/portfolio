@@ -13,7 +13,7 @@ scrollReveal.reveal(
   .formacao-container, .faculdade-lista,
   .formacao-extra, .cursos,
   .idiomas,
-  .footer-container, .footer-texto, .footer-contato`,
+  .footer-container`,
 
   { interval: 100 }
 );
